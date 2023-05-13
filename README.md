@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dorothykambua
 - 👀 I’m interested in coding and tech.
-- 🌱 I’m currently learning data analysis and machine learning.
+- 🌱 I’m into data analysis and machine learning.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me dorothykambua10@gmail.com
 
